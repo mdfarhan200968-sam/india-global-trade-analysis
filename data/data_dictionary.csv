@@ -1,0 +1,8 @@
+column,description,unit
+financial_year,Financial year,string
+exports_usd_million,Merchandise exports,US$ million
+imports_usd_million,Merchandise imports,US$ million
+trade_balance_usd_million,Exports minus imports,US$ million
+export_growth_pct,Annual export growth,percent
+import_growth_pct,Annual import growth,percent
+total_trade_usd_million,Exports plus imports,US$ million
