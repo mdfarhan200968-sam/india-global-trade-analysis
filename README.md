@@ -42,19 +42,6 @@ pip install -r requirements.txt
 python python/india_trade_analysis.py
 ```
 
-## GitHub upload
-```bash
-git init
-git add .
-git commit -m "Initial India global trade analysis project"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
-```
-
-## Suggested GitHub repository name
-`india-global-trade-analysis`
-
 ## Dashboard pages
 1. India Trade Overview
 2. Export vs Import Trends
